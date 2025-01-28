@@ -97,8 +97,8 @@ To use Tech Stack Advisor, you need an OpenAI API key:
 5. **Describe Your Project**:
    Enter your project details to receive AI-powered technology stack recommendations.
 
-![Tech Stack Advisor Input](https://github.com/solutions-for-realvalue/TechStackAdvisor/assets/23546356/7392e9f0-4d15-45fb-b6ed-dfeeea7073a2)
-![Tech Stack Advisor Output](https://github.com/solutions-for-realvalue/TechStackAdvisor/assets/23546356/e0010f77-d7a7-4979-8dbb-b3b43b7f3ecb)
+![Tech Stack Advisor Input](https://github.com/user-attachments/assets/85a19bce-f40d-4c86-9b5f-ba7d7e302d13)
+![Tech Stack Advisor Output](https://github.com/user-attachments/assets/563de454-ea27-4faf-85a7-4914ea050cf4)
 
 ---
 
